@@ -1,0 +1,7 @@
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\bin\Debug\validasiAngkaDanChar.exe
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\bin\Debug\validasiAngkaDanChar.pdb
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\obj\x86\Debug\validasiAngkaDanChar.MainForm.resources
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\obj\x86\Debug\validasiAngkaDanChar.csproj.GenerateResource.Cache
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\obj\x86\Debug\validasiAngkaDanChar.exe
+C:\Users\This\Documents\SharpDevelop Projects\validasiAngkaDanChar\validasiAngkaDanChar\obj\x86\Debug\validasiAngkaDanChar.pdb
